@@ -22,6 +22,18 @@ let updateTimer;
 
 const music_list = [
     {
+        name: "EL BOOMERANG",
+        artist: "Mestizo Is Back",
+        img: "MestizoBoomeranPic.jpg",
+        music: "Mestizo Is Back  El Boomerang.mp3"
+    },
+    {
+        name: "BALA",
+        artist: "Ceky Viciny x Yaisel LM",
+        img: "CekyYasielBalaPic.jpg",
+        music: "Ceky Viciny x Yaisel LM - Bala.mp3"
+    },
+    {
         name: "KIKIA",
         artist: "Mestizo Is Back X Braulio Fogon",
         img: "MEZTIBRAULIOKIKIAPIC.jpg",
