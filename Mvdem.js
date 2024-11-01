@@ -32,7 +32,19 @@ const music_list = [
       artist: "El Fother",
       img: "ElFotherPic.jpg",
       music: "El Fother - Superior.mp3"
-  },
+    },
+    {
+      name: "Un Teke",
+      artist: "Bigoblin",
+      img: "BigoblinUnTekePic.jpg",
+      music: "BIGOBLIN - Un Teke.mp3"
+    },
+    {
+      name: "CONTRARIO",
+      artist: "El Yala x La Greña",
+      img: "YalaPic.jpg",
+      music: "El Yala - CONTRARIO Ft. La Greña.mp3"
+    },
     {
         name: "BALA",
         artist: "Ceky Viciny x Yaisel LM",
