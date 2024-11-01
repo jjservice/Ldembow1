@@ -28,6 +28,12 @@ const music_list = [
         music: "Mestizo Is Back  El Boomerang.mp3"
     },
     {
+      name: "Superior",
+      artist: "El Fother",
+      img: "ElFotherPic.jpg",
+      music: "El Fother - Superior.mp3"
+  },
+    {
         name: "BALA",
         artist: "Ceky Viciny x Yaisel LM",
         img: "CekyYasielBalaPic.jpg",
