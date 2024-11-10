@@ -21,6 +21,12 @@ let isRandom = false;
 let updateTimer;
 
 const music_list = [
+   {
+       name: "Domingo De Circuito",
+       artist: "Yomel El Meloso X El Panamera X La Greña",
+       img: "YomelElmelosoPic.jpg",
+       music: "Yomel El Meloso X El Panamera X La Greña - Domingo De Circuito.mp3"
+    },
     {
         name: "EL BOOMERANG",
         artist: "Mestizo Is Back",
