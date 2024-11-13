@@ -23,8 +23,8 @@ let updateTimer;
 const music_list = [
    {
        name: "Domingo De Circuito",
-       artist: "Yomel El Meloso X El Panamera X La Greña",
-       img: "YomelElmelosoPic.jpg",
+       artist: "Yomel El Meloso X Leandro Panamera",
+       img: "YomelDomingoDecicuitoPic.jpg",
        music: "Yomel El Meloso X El Panamera X La Greña - Domingo De Circuito.mp3"
     },
     {
