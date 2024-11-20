@@ -1,24 +1,24 @@
 const songs = [
     {
         id: 1,
+        name: "TETA",
+        artist: "Angel Dior x @MestizoIsBack  ",
+        img: "AngelDiorMeztizoTetaPic.jpg",
+        music: "Angel Dior X @MestizoIsBack  - TETA.mp3"
+    },
+    {
+        id: 2,
         name: "Un Te",
         artist: "Yomel El Meloso x Tivi Gunz x Jhonathan",
         img: "YomelExitosPic.jpg",
         music: "Yomel El Meloso x Tivi Gunz x Jhonathan - Un Te.mp3"
     }, 
     {
-        id: 2,
+        id: 3,
         name: "EL BOOMERANG",
         artist: "Mestizo Is Back",
         img: "MestizoBoomeranPic.jpg",
         music: "Mestizo Is Back  El Boomerang.mp3"
-    },
-    {
-        id: 3,
-        name: "Domingo De Circuito",
-        artist: "Yomel El Meloso X Leandro",
-        img: "YomelDomingoDecicuitoPic.jpg",
-        music: "Yomel El Meloso X El Panamera X La Greña - Domingo De Circuito.mp3"
     },
     {
         id: 4,
@@ -92,10 +92,10 @@ const songs = [
     },
     {
         id: 14,
-        name: "DIME TU",
-        artist: "J one x El Mayor Clasico",
-        img: "JoneMayorDimetuPic.jpg",
-        music: "J one x El Mayor Clasico-DIME TU.mp3"
+        name: "Domingo De Circuito",
+        artist: "Yomel El Meloso X Leandro",
+        img: "YomelDomingoDecicuitoPic.jpg",
+        music: "Yomel El Meloso X El Panamera X La Greña - Domingo De Circuito.mp3"
     },
     {
         id: 15,
@@ -386,6 +386,13 @@ const songs = [
     },
     {
         id: 56,
+        name: "DIME TU",
+        artist: "J one x El Mayor Clasico",
+        img: "JoneMayorDimetuPic.jpg",
+        music: "J one x El Mayor Clasico-DIME TU.mp3"
+    },
+    {
+        id: 57,
         name: "Un Teke",
         artist: "Bigoblin",
         img: "BigoblinUnTekePic.jpg",
