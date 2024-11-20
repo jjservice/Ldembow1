@@ -1,11 +1,11 @@
-const songs = [ 
+const songs = [
     {
         id: 1,
-        name: "Domingo De Circuito",
-        artist: "Yomel El Meloso X Leandro",
-        img: "YomelDomingoDecicuitoPic.jpg",
-        music: "Yomel El Meloso X El Panamera X La Greña - Domingo De Circuito.mp3"
-    },
+        name: "Un Te",
+        artist: "Yomel El Meloso x Tivi Gunz x Jhonathan",
+        img: "YomelExitosPic.jpg",
+        music: "Yomel El Meloso x Tivi Gunz x Jhonathan - Un Te.mp3"
+    }, 
     {
         id: 2,
         name: "EL BOOMERANG",
@@ -15,17 +15,17 @@ const songs = [
     },
     {
         id: 3,
+        name: "Domingo De Circuito",
+        artist: "Yomel El Meloso X Leandro",
+        img: "YomelDomingoDecicuitoPic.jpg",
+        music: "Yomel El Meloso X El Panamera X La Greña - Domingo De Circuito.mp3"
+    },
+    {
+        id: 4,
         name: "Superior",
         artist: "El Fother",
         img: "ElFotherPic.jpg",
         music: "El Fother - Superior.mp3"
-    },
-    {
-        id: 4,
-        name: "Un Teke",
-        artist: "Bigoblin",
-        img: "BigoblinUnTekePic.jpg",
-        music: "BIGOBLIN - Un Teke.mp3"
     },
     {
         id: 5,
@@ -383,6 +383,13 @@ const songs = [
         artist: "El Alfa El Jefe Ft. Yomel El Meloso, El Fother",
         img: "elalfatellenasteremixpic.jpg",
         music: "El Alfa El Jefe - TE LLENASTE (Ft. Yomel El Meloso, El Fother).mp3"
+    },
+    {
+        id: 56,
+        name: "Un Teke",
+        artist: "Bigoblin",
+        img: "BigoblinUnTekePic.jpg",
+        music: "BIGOBLIN - Un Teke.mp3"
     }
     
  ];
