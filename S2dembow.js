@@ -660,4 +660,12 @@ recognition.addEventListener("result", (event) => {
         notificationSound.play(); // Play sound if matches are found
     }
 });
+
+// Lights Section //////////////////////////////////
+function toggleClassPlayer(){
+
+    const body = document.querySelector('body');
+    body.classList.toggle('lightPlayer');
+    
+    }
     
