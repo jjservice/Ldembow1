@@ -29,7 +29,7 @@
 <div class="music-player">
     <h1 class="lolli-title">LOLLIP<ion-icon name="headset-sharp" onclick="toggleClassPlayer()"></ion-icon>P</h1>
     
-    <input type="text" id="search-input" placeholder=".;.LOLLITA MUSIC.;." />
+    <input type="text" id="search-input" placeholder=".;.LOLLITA DEMBOW.;." />
     
     <button id="voice-search-button"><i class="fas fa-microphone"></i>
       <audio id="notification-sound" src="notification.mp3" preload="auto"></audio>
@@ -41,10 +41,13 @@
     <option value="fr-FR">French</option>
     <!-- Add more languages as needed -->
     </select>
+
+
    
       <!-- Song Details -->
       <ul class="current-song-details">
-        <div id="current-id"></div>
+       <div id="current-id"></div>
+       <img id="current-song-image" src="MusicGig.gif" alt="Song Image"/>
        <div id="current-song-name"></div>
        <div id="current-artist-name"></div>
       </ul>  
@@ -87,3 +90,5 @@
 <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
 <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
 </html>
+
+
