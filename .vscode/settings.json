@@ -1,3 +1,4 @@
 {
-    "livePreview.defaultPreviewPath": "/S2dembow.html"
+    "livePreview.defaultPreviewPath": "/S2dembow.html",
+    "liveServer.settings.port": 5501
 }
